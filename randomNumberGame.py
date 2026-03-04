@@ -43,5 +43,5 @@ def play():
                 print(f"Wrong! The number was {actualNumber}.")
                 print(f"\nGame Over, {Username}. You've run out of attempts.")
 
-#basically main: starting the game
+#Play game
 play()

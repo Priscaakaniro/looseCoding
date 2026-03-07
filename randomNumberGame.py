@@ -10,7 +10,6 @@ def intro():
 
 #getting user num
 def getNum():
-    global number
 
     while True:
         try:

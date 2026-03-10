@@ -6,6 +6,6 @@ char PlayerAction(char action);
 
 
 int main() {
-	cout << "Hello World!";
+	cout << "Hi!";
 	return 0;
 }
